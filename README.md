@@ -10,6 +10,11 @@
 </p>
 
 <div>
+  <h3>Примеры работ:</h3>
+https://javelinsx.github.io/portfolio/
+</div>
+
+<div>
 <h3>Как со мной связаться:</h3>
 <img width="20" height="20" src="https://img.icons8.com/emoji/48/000000/e-mail.png" /> <a href="mailto:zuev499@gmail.com">zuev499@gmail.com</a><br>
 <img width="20" height="20" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" /> <a href="https://t.me/javelinMynd">Telegram</a> <br>
